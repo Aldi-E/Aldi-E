@@ -1,5 +1,5 @@
-## Ohayou! 👋
-
+## Ohayou! 😍
+welcome to my account
 <!--
 **Aldi-E/Aldi-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
